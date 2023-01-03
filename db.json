@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Open SeaHorses #20",
+        "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
+        "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/20.png",
+        "dna": "c2638cbca72d028dee53af311ab09fd9ac0d066e",
+        "edition": 20,
+        "date": 1672600497193,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "AssLantis"
+            },
+            {
+                "trait_type": "Seahorse",
+                "value": "Fuzz"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Fancy"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Uh"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Double_Vision"
+            },
+            {
+                "trait_type": "Holding",
+                "value": "Verifucked"
+            }
+        ],
+        "compiler": "A Mr Hands 👐 Production"
+    },
+    {
+        "name": "Open SeaHorses #629",
+        "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
+        "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/629.png",
+        "dna": "b5ed8fbd40c57b246b87e8dac2a071f73b7ba9ab",
+        "edition": 629,
+        "date": 1672600497866,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Target"
+            },
+            {
+                "trait_type": "Seahorse",
+                "value": "Glitched"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Green_Fo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Bling"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Mutated"
+            },
+            {
+                "trait_type": "Holding",
+                "value": "Verifucked"
+            }
+        ],
+        "compiler": "A Mr Hands 👐 Production"
+    },
+    {
+        "name": "Open SeaHorses #2015",
+        "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
+        "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/2015.png",
+        "dna": "b24b26a73e29bb7e503b21f9ae515dec0bf22406",
+        "edition": 2015,
+        "date": 1672600498228,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Inhale"
+            },
+            {
+                "trait_type": "Seahorse",
+                "value": "Hot_Pink"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Green_Fo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Gold_Grillz"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Red_Eye"
+            },
+            {
+                "trait_type": "Holding",
+                "value": "Verifucked"
+            }
+        ],
+        "compiler": "A Mr Hands 👐 Production"
+    }
+]
