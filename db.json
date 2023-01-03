@@ -1,28 +1,28 @@
 {
     "nfts": [
         {
-            "id": "0",
+            "id": 0,
             "name": "Open SeaHorses #1",
             "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
-            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/1.png",
+            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/1.png"
         },
         {
-            "id": "1",
+            "id": 1,
             "name": "Open SeaHorses #20",
             "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
-            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/20.png",
+            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/20.png"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Open SeaHorses #629",
             "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
-            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/629.png",
+            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/629.png"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Open SeaHorses #2015",
             "description": "Welcome to OpenSeaHorses.  We are a 2023 generated collection of Seahorses.",
-            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/2015.png",
+            "image": "ipfs://QmYBCtosiT588nEYNP8eqpnxRtT7rbktUHQUYnD4MEHsL2/2015.png"
         }
     ]
 }
